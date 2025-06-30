@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873940213739",
+    "project_id": "opj-master-82f18",
+    "storage_bucket": "opj-master-82f18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873940213739:android:05d2ea3f3958be3c5ac3ae",
+        "android_client_info": {
+          "package_name": "com.msj2025.opj_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW2s-Mt_Jp9P0mB4xQzoNQ7HX7TB66DcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
